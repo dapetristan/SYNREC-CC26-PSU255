@@ -1,4 +1,4 @@
-# [cite_start]SYNREC - Sistem Rekomendasi Film Berbasis Kemiripan Semantik Sinopsis [cite: 6, 7]
+# SYNREC - Sistem Rekomendasi Film Berbasis Kemiripan Semantik Sinopsis
 
 ![SYNREC Platform](https://synrec.vercel.app/
 
