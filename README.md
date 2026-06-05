@@ -22,7 +22,7 @@ Repository ini memuat seluruh komponen (Full-Stack dan AI) yang saling terintegr
 * [cite_start]`/model-service` - REST API mandiri (FastAPI/Flask) khusus untuk melayani *inference* model *Machine Learning*[cite: 132, 158].
 * [cite_start]`/dashboard` - Dashboard interaktif (Streamlit) berisi hasil *Exploratory Data Analysis* (EDA)[cite: 109, 111, 159].
 
-## 👥 Tim Pengembang (Jawara / MARVIC)
+## 👥 Tim Pengembang
 | Nama | Peran | ID Coding Camp |
 |---|---|---|
 | Wafiq Gifari Putra Yudha | AI Engineer | [cite_start]CACC180D6Y1190 [cite: 14] |
